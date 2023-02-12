@@ -4,5 +4,5 @@
 	"ip":"JavaCuy.aternos.me",
 	"port": "37289",
 	"name": "BOT",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
